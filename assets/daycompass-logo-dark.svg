@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" role="img" aria-labelledby="title">
+  <title id="title">DayCompass</title>
+  <g fill="none" stroke="#F4F7FC" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="114" cy="120" r="91" stroke-width="12"/>
+    <path d="M114 29v18M114 193v18M23 120h18M187 120h18" stroke-width="10"/>
+  </g>
+  <path d="M56 145a58 58 0 0 1 116 0Z" fill="#F6B94B"/>
+  <path d="M54 145h120" fill="none" stroke="#F4F7FC" stroke-linecap="round" stroke-width="10"/>
+  <path d="M64 181 96 110 164 58 132 130Z" fill="#F4F7FC"/>
+  <circle cx="114" cy="120" r="8" fill="#F6B94B"/>
+  <text x="232" y="160" fill="#F4F7FC" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="700" letter-spacing="-4">DayCompass</text>
+</svg>

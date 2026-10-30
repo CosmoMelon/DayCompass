@@ -1,0 +1,5 @@
+streamlit>=1.39,<2
+openai>=1.50,<3
+python-dotenv>=1.0,<2
+requests>=2.27,<3
+tzdata>=2024.1
